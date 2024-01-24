@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyResep</string>
+    <string name="about">Tentang Kami</string>
+    <string-array name="article_titles">
+        <item>Resep Nasi Goreng</item>
+        <item>Resep Ayam Goreng</item>
+        <item>Resep Ayam Kecap</item>
+        <item>Resep Nila Bumbu Kuning</item>
+        <item>Resep Sate Kambing</item>
+        <item>Resep Steak Ayam</item>
+        <item>Resep Balado Terong</item>
+        <item>Resep Balado Hati Ayam</item>
+        <item>Resep Seblak</item>
+        <item>Resep Soto</item>
+    </string-array>
+    <string name="open_nav_drawer">Open Navigation Drawer</string>
+    <string name="close_nav_drawer">Close Navigation Drawer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_about">About</string>
+</resources>
